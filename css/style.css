@@ -1,0 +1,29 @@
+body {
+    background-color: #0a290a;
+    color: #cccccc;
+    line-height: 24px;
+    font-size: 21px;
+    text-align: center;
+    
+}
+
+p {
+    color: gray;
+}
+
+.signature {
+    background-color: black;
+}
+
+.ingredients {
+    list-style: none;
+}
+
+.process {
+   font-size: larger; 
+   color: dimgrey;
+   text-align: justify;
+   text-justify: inter-word;
+   list-style: decimal;
+}
+
