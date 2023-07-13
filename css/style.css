@@ -16,6 +16,8 @@ h1 {
 
 span {
     background-color: black;
+    border: 2px solid grey;
+    padding: 6px;
 }
 
 .button {
@@ -53,8 +55,12 @@ p {
 }
 
 .signature {
-    background-color: black;
-    font-size: xx-small;
+width: fit-content;
+    font-size: 8px;
+    text-align: left;
+    margin: 0px;
+    border: 2px solid grey;
+    padding: 3px;
 
 }
 
